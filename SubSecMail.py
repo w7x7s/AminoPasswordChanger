@@ -116,4 +116,3 @@ class SubSM(secmail.SecMail):
                     return False
                 else:
                     return True
-
