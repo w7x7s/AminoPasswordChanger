@@ -12,4 +12,4 @@ if E.request_verify_code():
     if E.change_password(password=input('new password > '),code=input("code >")):
         print('done :)')
 ```
-[my account](instagram.com/w7x7s/) 
+[my account](https://www.instagram.com/w7x7s/) 
