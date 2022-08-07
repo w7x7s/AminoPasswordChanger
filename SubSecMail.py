@@ -116,9 +116,4 @@ class SubSM(secmail.SecMail):
                     return False
                 else:
                     return True
-email='email'
-E=SubSM(email)
-if E.request_verify_code():
-    print(E.read())
-    if E.change_password(password=input('new password > '),code=input("code >")):
-        print('done :)')
+
