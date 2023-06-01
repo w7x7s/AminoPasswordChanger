@@ -16,5 +16,5 @@ def change_password_amino(email):
             print("Failed to change password")
 
 if __name__ == "__main__":
-    email = 'ZOOM-7ukhevalr@1secmail.org'
+    email = 'Email'
     change_password_amino(email)
