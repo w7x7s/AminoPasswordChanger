@@ -38,4 +38,4 @@ This script is used to change the password in Amino.
 
 ## References / المراجع
 
-- [My Instagram Account]([https://www.instagram.com/w7x7s/](https://instagram.com/w7x7s?igshid=NGExMmI2YTkyZg==))
+- [My Instagram Account](https://www.instagram.com/w7x7s/](https://instagram.com/w7x7s?igshid=NGExMmI2YTkyZg==)
