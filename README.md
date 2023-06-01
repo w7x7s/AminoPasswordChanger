@@ -11,7 +11,7 @@ This script is used to change the password in Amino.
     email = 'email'
     ```
 
-2. Create an instance of the `EmailManager` class / أنشئ مثيلًا من فئة `EmailManager`:
+2. Create an instance of the `EmailManager` class / أنشئ كلاس من  `EmailManager`:
     ```python
     E = EmailManager(email)
     ```
